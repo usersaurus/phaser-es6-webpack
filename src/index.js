@@ -1,4 +1,4 @@
-import "phaser";
+import Phaser from "phaser";
 
 import { SimpleScene } from "./scenes/simple-scene";
 
