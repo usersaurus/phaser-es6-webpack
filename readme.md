@@ -3,4 +3,4 @@
 - run: `yarn webpack-dev-server`
 - build: `yarn webpack`
 
-_wip_
+_defs link_ https://raw.githubusercontent.com/photonstorm/phaser3-docs/master/typescript/phaser.d.ts
